@@ -1,0 +1,15 @@
+{
+  "name": "alina/academy-homework-3",
+  "description": "Homework for the third lection",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Alina",
+      "email": "vesnaveska@mail.ru"
+    }
+  ],
+  "autoload": {
+    "classmap": ["src/"]
+  }
+} 
